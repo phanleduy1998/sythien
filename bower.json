@@ -1,0 +1,20 @@
+{
+  "name": "sythien",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "thien"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/phanleduy1998/sythien",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
